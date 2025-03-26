@@ -16,9 +16,12 @@ Türkiye Radyo Amatörleri Cemiyeti (TRAC) Erzurum Şubesi, amatör telsizcilik 
 
 - Düzenli toplantılar ve teknik seminerler
 - Amatör telsizcilik kursları
-- Field Day etkinlikleri
 - Acil durum haberleşme tatbikatları
 - Sosyal etkinlikler ve buluşmalar
+
+## Katkıda Bulunma
+
+Projelerimize katkıda bulunmak veya bünyemizde projeler geliştirmek için aşağıda yer alan bilgiler üzerinden bizimle iletişime geçebilirsiniz.
 
 ## İletişim
 
