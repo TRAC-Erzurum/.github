@@ -1,12 +1,34 @@
-## Hi there 👋
+# Türkiye Radyo Amatörleri Cemiyeti Erzurum Şubesi
 
-<!--
+## Hakkımızda
 
-**Here are some ideas to get you started:**
+Türkiye Radyo Amatörleri Cemiyeti (TRAC) Erzurum Şubesi, amatör telsizcilik faaliyetlerini Erzurum'da yürüten, geliştiren ve destekleyen bir kuruluştur. Şubemiz, TRAC'ın genel amaçları doğrultusunda çalışmalarını sürdürmektedir.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Misyonumuz
+
+- Amatör telsizciliği Erzurum'da yaygınlaştırmak ve geliştirmek
+- Yeni amatör telsizcilerin yetişmesine katkıda bulunmak
+- Acil durum haberleşmesi konusunda hazırlıklı olmak
+- Teknik bilgi ve deneyim paylaşımını teşvik etmek
+- Uluslararası amatör telsizcilik topluluğu ile işbirliğini geliştirmek
+
+## Faaliyetlerimiz
+
+- Düzenli toplantılar ve teknik seminerler
+- Amatör telsizcilik kursları
+- Field Day etkinlikleri
+- Acil durum haberleşme tatbikatları
+- Sosyal etkinlikler ve buluşmalar
+
+## İletişim
+
+- Adres: Türk Telekom Kampüsü, Müftü Solakzade, Zübeyde Hanım Cd. No:6 D:3, 25070 Palandöken/Erzurum
+- E-posta: erztrac@gmail.com
+- Çağrı İşareti: YM9KE
+- QTH Locator: LM09PV13TE
+
+## Sosyal Medya
+
+- Facebook: https://www.facebook.com/trac.erzurum
+- X: https://x.com/ErzurumTrac
+- Instagram: https://www.instagram.com/tracerzurum
