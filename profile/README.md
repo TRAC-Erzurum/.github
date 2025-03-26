@@ -32,6 +32,6 @@ Projelerimize katkıda bulunmak veya bünyemizde projeler geliştirmek için aş
 
 ## Sosyal Medya
 
-- Facebook: https://www.facebook.com/people/TRAC-Erzurum-%C5%9Eube-Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1/61568500871080/
-- X: https://x.com/ErzurumTrac
-- Instagram: https://www.instagram.com/tracerzurum
+- [Facebook](https://www.facebook.com/people/TRAC-Erzurum-%C5%9Eube-Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1/61568500871080/)
+- [X](https://x.com/ErzurumTrac)
+- [Instagram](https://www.instagram.com/tracerzurum)
